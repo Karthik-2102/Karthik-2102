@@ -219,8 +219,8 @@ me.say_hi()
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-Karthik--2102-a78bfa?style=for-the-badge&logo=github&logoColor=white&labelColor=0d0f1a)](https://github.com/Karthik-2102)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-60a5fa?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d0f1a)](https://linkedin.com/in/karthik-vikash)
-[![Email](https://img.shields.io/badge/Email-Say_Hi-f472b6?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d0f1a)](mailto:your@email.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-60a5fa?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d0f1a)](https://www.linkedin.com/in/vikash-kumar-902baa339/)
+[![Email](https://img.shields.io/badge/Email-Say_Hi-f472b6?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d0f1a)](mailto:karthikvikash02@email.com)
 
 <br/>
 
