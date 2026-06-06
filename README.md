@@ -148,6 +148,8 @@ me.say_hi()
 <td width="50%" valign="top">
 
 ### 🧮 Calculator App
+[![Live Demo](https://img.shields.io/badge/🌐_Live_Demo-github.io-a78bfa?style=for-the-badge&labelColor=0d0f1a)](https://karthik-2102.github.io/Calculator-Page)
+
 > A **fully functional calculator** with clean UI — supports all basic arithmetic operations with a sleek design.
 
 **Tech Stack:**
@@ -162,6 +164,8 @@ me.say_hi()
 <td width="50%" valign="top">
 
 ### 🕐 Digital Clock Page
+[![Live Demo](https://img.shields.io/badge/🌐_Live_Demo-github.io-a78bfa?style=for-the-badge&labelColor=0d0f1a)](https://karthik-2102.github.io/Digital-Clock/)
+
 > A **live digital clock** showing hours, minutes, seconds, full date and day — updates every second in real time.
 
 **Tech Stack:**
