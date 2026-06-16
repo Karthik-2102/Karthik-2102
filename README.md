@@ -214,6 +214,15 @@ me.say_hi()
 
 ---
 
+## 🌐 Portfolio
+
+🚀 **Live Portfolio:**  
+👉 https://portfolio-karthik-vikash.vercel.app
+
+Modern responsive portfolio showcasing my projects, technical skills, professional experience, and journey as a BCA student and AI enthusiast building Jarvis AI.
+
+---
+
 ## 🌐 Connect With Me
 
 <div align="center">
